@@ -15,17 +15,17 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Neehh/Neeh-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/vanostrax/Vanostra-Userbot-1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 🖇 Generating Pyrogram String Session
     
 > Anda memerlukan APP ID & API HASH Telegram untuk mengambil sesi Pyrogram. ambil APP ID dan API Hash di my.telegram.org
 - Generate Session via <a href="https://repl.it/@mrismanaziz/stringen?lite=1&outputonly=1">Repl</a>
-- Generate Session via <a href="https://t.me/StringManRobot">Telegram String Generation Bot</a>
+- Generate Session via <a href="https://t.me/AnonStrinGBot">Telegram String Generation Bot</a>
 ## 🏷 Support
 
-- Follow Channel [@GroupChannel](https://t.me/hiroshimabes) untuk info Update bot 
-- Gabung Group [@GroupSupport](https://t.me/hiroxsupport) untuk diskusi, pelaporan bug, dan bantuan tentang PyroHiro-Userbot.
+- Follow Channel [@GroupChannel](https://t.me/xyzrannn) untuk info Update bot 
+- Gabung Group [@GroupSupport](https://t.me/pintarsupport) untuk diskusi, pelaporan bug, dan bantuan tentang PyroHiro-Userbot.
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
