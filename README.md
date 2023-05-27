@@ -1,8 +1,8 @@
-# Hiroshi-Userbot
+<p align="center">
+  <img src="https://telegra.ph/file/aeba6ea2125aa7774b1b5.jpg">
+</p>
 
-Neehh-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
-
-Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda mengelola grup secara efisien dan untuk membantu mengurangi kebosanan saat menggunakan telegram.
+<h4><p align="center"> USERBOT PYOGRAM</p></h4>
 
 ## ⚠️ Disclaimer
 
@@ -27,18 +27,4 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 - Follow Channel [@GroupChannel](https://t.me/xyzrannn) untuk info Update bot 
 - Gabung Group [@GroupSupport](https://t.me/pintarsupport) untuk diskusi, pelaporan bug, dan bantuan tentang PyroHiro-Userbot.
 
-## 👨🏻‍💻 Credits
--  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
--  [Risman](https://github.com/mrismanaziz) for [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)
--  [Hiroshi](https://github.com/Neehh) for [Hiroshi-Userbot](https://github.com/Neehh/Vanostra-Userbot)
 
-#### Special Thanks To [Everyone](https://github.com/mrismanaziz/PyroMan-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
--  [TeamDerUntergang](https://github.com/TeamDerUntergang/Telegram-SedenUserBot) : SedenUserBot
--  [TheHamkerCat](https://github.com/TheHamkerCat/WilliamButcherBot) : WilliamButcherBot
--  [TeamYukki](https://github.com/TeamYukki/YukkiMusicBot) : YukkiMusicBot
--  [ITZ-ZAID](https://github.com/ITZ-ZAID) : Zaid-UserBot
--  [Tofikdn](https://github.com/tofikdn) : Tede
--  [Toni](https://github.com/Toni880) : Prime-UserBot
-
-## 📑 License
-Licensed under [GNU General Public License v3.0](https://github.com/Neehh/Neeh-Userbot/blob/Hiro-Userbot/LICENSE) All designs were created by [@Hiroshisupport](https://github.com/Neehh)
