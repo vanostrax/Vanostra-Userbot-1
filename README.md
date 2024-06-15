@@ -24,7 +24,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 - Generate Session via <a href="https://t.me/StringManRobot">Telegram String Generation Bot</a>
 ## 🏷 Support
 
-- Follow Channel [@GroupChannel](https://t.me/hiroshimabes) untuk info Update bot 
+- Follow Channel [@GroupChannel](https://t.me/pintarmutualan) untuk info Update bot 
 - Gabung Group [@GroupSupport](https://t.me/hiroxsupport) untuk diskusi, pelaporan bug, dan bantuan tentang PyroHiro-Userbot.
 
 ## 👨🏻‍💻 Credits
